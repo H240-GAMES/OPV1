@@ -1,1 +1,15 @@
-
+{
+  "schema": 1,
+  "latest": "1.0.1",
+  "criticality": "critical",
+  "mandatory": true,
+  "released": "2026-11-12",
+  "title": "Yeni güncelleme var",
+  "message": "sdadadada",
+  "button_update": "Güncelle",
+  "button_later": "Daha Sonra",
+  "download_url": "https://launcher.odiumtr.com/download",
+  "changelog": [
+    "dsadsadad"
+  ]
+}
