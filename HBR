@@ -1,1 +1,32 @@
-
+{
+  "schema": 1,
+  "updated": "2026-11-11T22:59:29Z",
+  "roles": [
+    {
+      "id": "duyuru",
+      "label": "DUYURU",
+      "color": "#C9A227"
+    },
+    {
+      "id": "yeni_guncelleme",
+      "label": "YENİ GÜNCELLEME",
+      "color": "#3FAF5A"
+    },
+    {
+      "id": "kritik_guncelleme",
+      "label": "KRİTİK GÜNCELLEME",
+      "color": "#D23B3B"
+    },
+    {
+      "id": "etkinlik",
+      "label": "ETKİNLİK",
+      "color": "#8E5BD0"
+    },
+    {
+      "id": "bilgi",
+      "label": "BİLGİ",
+      "color": "#3D8FD1"
+    }
+  ],
+  "news": []
+}
